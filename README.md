@@ -1,3 +1,3 @@
 # AppDev
 
-Repository for stock prediction app dev related projects 
+Repository for stock prediction app dev projects 
